@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Processing</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="import_from_Gallery">Import from Gallery</string>
+</resources>
