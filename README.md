@@ -4,6 +4,7 @@ In this application, you have two option for choosing the picture:
 1st: Capture the image through camera or 
 2nd: select the image from your Local Storage or from Google Drive or from all those folders where you save images.
 
+
 # Screenshots: 
 ![Screenshot_20210712-025310_Video Player](https://user-images.githubusercontent.com/64913497/125210365-07a6cb80-e2bd-11eb-82a4-9888c76ccba8.jpg)
 ![Screenshot_20210712-025317_Video Player](https://user-images.githubusercontent.com/64913497/125210369-0bd2e900-e2bd-11eb-887f-f4b1e926bd6f.jpg)
